@@ -1,4 +1,7 @@
-
+## About the Project
+ 
+This is a demo project on CRUD application which manages API Info. Project is done by Spring Data JPA and Vaadin. Database used is h2 in-memory database. 
+USe this link to access the database: http://localhost:8080/h2-console
 
 ## Running the application
 
